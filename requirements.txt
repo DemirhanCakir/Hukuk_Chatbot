@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+langchain-google-genai
+langchain-core
+langchain-chroma
+scikit-learn
+python-dotenv
+evaluate
+pandas
+matplotlib
+seaborn
