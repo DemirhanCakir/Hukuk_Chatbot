@@ -15,6 +15,15 @@ Bu proje, Türkiye Cumhuriyeti Anayasası hakkında sorulan sorulara doğru, öz
 
 ---
 
+🖥️ Çalışan Demo 
+
+![image](app/data/Screenshot1.png)
+
+
+
+![image](app/data/Screenshot2.png)
+
+---
 ## 📁 Proje Yapısı
 
 ```
